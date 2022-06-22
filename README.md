@@ -1,4 +1,5 @@
-# RECUPERA-O-LW-LS-PEDRO-HENRIQUE
+# RECUPERACAO-LW-LS-JENNIFER
+
 
 # ler valores
 nome = input("Texto")
